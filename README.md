@@ -29,7 +29,7 @@
 #### 🌊 [Inktide](https://github.com/inktide-ai/inktide)
 AI companion for live streams. It reads Discord, Twitch and Telegram chat and answers in voice. TTS starts on the first sentence while the LLM is still writing the rest, so there's no pause between thinking and speaking.
 
-AI-компаньон для стримов. Читает чат Discord, Twitch и Telegram и отвечает голосом. Озвучка начинается с первого предложения, пока LLM ещё дописывает остальное, поэтому между «подумал» и «сказал» нет паузы.
+Виртуальный соведущий для стрима, который не молчит в ответ. Inktide слушает чат Discord, Twitch и Telegram, помнит зрителей и отвечает живым голосом через аватара. Говорит как человек: без неловких пауз, начиная отвечать, пока ещё додумывает фразу.
 
 `.NET 10` · `Next.js` · `Rust` · `Python` · `Redis Streams` · `SignalR` · `Keycloak` · `Qdrant`
 
