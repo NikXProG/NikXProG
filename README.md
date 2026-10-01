@@ -27,7 +27,7 @@
 ### 🚀 Projects
 
 #### 🌊 [Inktide](https://github.com/inktide-ai/inktide)
-AI companion for live streams. It reads Discord, Twitch and Telegram chat and answers in voice. TTS starts on the first sentence while the LLM is still writing the rest, so there's no pause between thinking and speaking.
+A virtual stream co-host that actually talks back. Inktide listens to Discord, Twitch and Telegram chat, remembers your viewers and replies in a live voice through its avatar. It talks like a human: no awkward pauses, it starts answering while it's still finishing the thought.
 
 Виртуальный соведущий для стрима, который не молчит в ответ. Inktide слушает чат Discord, Twitch и Telegram, помнит зрителей и отвечает живым голосом через аватара. Говорит как человек: без неловких пауз, начиная отвечать, пока ещё додумывает фразу.
 
