@@ -27,9 +27,23 @@
 ### 🚀 Projects
 
 #### 🌊 [Inktide](https://github.com/inktide-ai/inktide)
-A virtual stream co-host that actually talks back. Inktide listens to Discord, Twitch and Telegram chat, remembers your viewers and replies in a live voice through its avatar. It talks like a human: no awkward pauses, it starts answering while it's still finishing the thought.
+An AI character that co-hosts your stream and always has something to say to chat.
 
-Виртуальный соведущий для стрима, который не молчит в ответ. Inktide слушает чат Discord, Twitch и Telegram, помнит зрителей и отвечает живым голосом через аватара. Говорит как человек: без неловких пауз, начиная отвечать, пока ещё додумывает фразу.
+- 🎭 its own look and personality
+- 😊 lively facial expressions and emotions
+- 👄 lips move in sync with its voice
+- 🧠 remembers viewers and past conversations
+- 💬 reads Discord, Twitch and Telegram
+- ⚡ replies without pauses: starts talking while still finishing the thought
+
+AI-персонаж, который ведёт стрим вместе с тобой и всегда найдёт, что ответить чату.
+
+- 🎭 своя внешность и характер
+- 😊 живая мимика и эмоции
+- 👄 губы двигаются в такт голосу
+- 🧠 помнит зрителей и прошлые разговоры
+- 💬 читает Discord, Twitch и Telegram
+- ⚡ отвечает без пауз: начинает говорить, пока ещё додумывает фразу
 
 `.NET 10` · `Next.js` · `Rust` · `Python` · `Redis Streams` · `SignalR` · `Keycloak` · `Qdrant`
 
